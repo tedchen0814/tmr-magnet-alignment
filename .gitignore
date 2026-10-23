@@ -4,3 +4,6 @@ AAT003.pdf
 ON-AXIS Angle sensing.txt
 dist/
 .vercel/
+
+.vercel
+.env*
